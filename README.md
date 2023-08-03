@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying Masters in Computer Science
-- 🌱 I’m currently learning OOPS, Web Applications and Advance Database
-- 👯 I’m looking to collaborate on Apple
-- 🤔 I’m looking for help with Coding
-- 📫 How to reach me: Through email nainasahiri123@gmail.com
+- I have completed MS in Computer Science.
+- I'm strong with Computer science basics, Data Structures, and Algorithms.
+- I have experience developing applications with Java Spring.
+- I'm looking for career opportunities as Software Developer/Engineer.
+- How to reach me: Through email nainasahiri17@gmail.com
